@@ -1,14 +1,14 @@
 //abstract
-@import "variables";
+@import "_abstract/variables";
 
 //vendors
 
 //base
-
+@import "_base/typography";
 //layout
 
 //component 
-@import "buttons";
+@import "_components/buttons";
 //page
 
 //themes  
